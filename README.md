@@ -60,7 +60,6 @@ This elective course will cover the latest advances in bioinformatics in the con
 * Provide all codes with answers to the questions.
 
 
-
 ## Final Exam
 * Create a hands-on session document to perform data analysis with your own data (public or private data) similar to MED 263 class
 * Following this document, students (or others) should be able to conduct a data analysis in the context of bioinformatics
